@@ -1,4 +1,4 @@
 <?php
 // Kommentar hinzugefügt
-phpinfo()
+echo("Mein Name ist Bernd.");
 ?>
