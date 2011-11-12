@@ -1,3 +1,4 @@
 <?php
+// Kommentar hinzugefügt
 phpinfo()
 ?>
